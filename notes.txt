@@ -1,0 +1,7 @@
+[.] is used to select class
+[#] is used to select id
+ 
+to use some special like[ hover,visited]just type them with colons
+
+to select two adjacent use[+] in between
+
